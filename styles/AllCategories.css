@@ -1,0 +1,14 @@
+.color{
+    background-color: rgba(255, 255, 255, 0.02);
+}
+.gray{
+    background-color:rgba(255, 255, 255, 0.08);
+}
+.indigo{
+    background-color:rgba(236, 159, 255, 0.24);
+color:#EFADFF;
+}
+.green{
+    background-color:rgba(122, 244, 156, 0.24);;
+    color:#7AF49C;
+}

@@ -1,0 +1,16 @@
+.colorStyle{
+
+    background-color: radial-gradient(100% 100% at 50% 0%, rgba(130, 130, 164, 0.12) 0%, rgba(130, 130, 164, 0) 100%);
+}
+.gray{
+    background-color: blue;
+    color:white;
+}
+.purple{
+    background-color: purple;
+    color:white;
+}
+.green{
+    background-color:rgba(122, 244, 156, 0.24);
+    color:white;
+}
